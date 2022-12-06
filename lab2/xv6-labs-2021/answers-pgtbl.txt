@@ -1,0 +1,2 @@
+sys_uptime, sharing the ticks can make it happen
+page0 contains text, page2 contains fixed-size stack. Yes, it has a write bit set to 1. Contain kernel data and free memory.

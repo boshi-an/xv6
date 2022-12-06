@@ -1,0 +1,6 @@
+a2
+no where, inlined
+0x626
+0x0
+HE110 world
+it prints the value in register a2

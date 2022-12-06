@@ -1,0 +1,1 @@
+When 2 threads inserting in the same place, they may happen to modify the suffix of the same node. In this case, the suffix of the node will be modified by the thread that is a bit slower.
